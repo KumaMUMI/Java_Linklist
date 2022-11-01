@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="dev.k.class1.DoubyLinkList"/>
+    <fullyQualifiedTypeName name="dev.kim.class1.DoublyLinklist"/>
+    <fullyQualifiedTypeName name="E"/>
+    <fullyQualifiedTypeName name="dev.kim.class1.Node"/>
+    <fullyQualifiedTypeName name="dev.kim.class1.Linklist"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="dev.chaow.tree.Tree"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="dev.kim.bst.BinarySearchTree"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="Stack"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="java.lang.StrictMath"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.Node"/>
+    <fullyQualifiedTypeName name="dev.kim.LinkList"/>
+    <fullyQualifiedTypeName name="dev.kim.Queue"/>
+    <fullyQualifiedTypeName name="java.lang.Float"/>
+    <fullyQualifiedTypeName name="java.lang.Appendable"/>
+    <fullyQualifiedTypeName name="dev.chaow.DoublyNode"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="dev.kim.DoublyLinkList"/>
+    <fullyQualifiedTypeName name="dev.kim.DoublyNode"/>
+    <fullyQualifiedTypeName name="dev.kim.Node"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="oop1.Diamond"/>
+    <fullyQualifiedTypeName name="oop1.Ruby"/>
+    <fullyQualifiedTypeName name="oop1.Gem"/>
+    <fullyQualifiedTypeName name="oop1.Emerald"/>
+    <fullyQualifiedTypeName name="java.security.PublicKey"/>
+    <fullyQualifiedTypeName name="oop2.Toy"/>
+    <fullyQualifiedTypeName name="oop3.Car"/>
+    <fullyQualifiedTypeName name="oop3.Honda"/>
+    <fullyQualifiedTypeName name="oop4.Singer"/>
+    <fullyQualifiedTypeName name="oop4.Music"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+</qualifiedTypeNameHistroy>

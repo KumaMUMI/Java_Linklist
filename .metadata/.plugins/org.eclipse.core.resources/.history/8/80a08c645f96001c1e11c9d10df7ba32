@@ -1,0 +1,53 @@
+
+public class Stack<T> {
+	
+	T []data;
+	int p = 0;
+	
+	public Stack(int n) {
+		T[] ts = (T[])  new Object[n];
+		data  = ts;
+		p=0;
+	}
+	
+	public boolean isEmpty() {
+		return p == 0;
+	}
+	
+	public boolean isFull() {
+		return p >= data.length;
+	}
+	
+	public void push(T value) throws Exception {
+		if(!isFull()) {
+			data[p]=value;
+			p+=1;
+		}else {
+		throw new Exception("stack was full");
+		}
+	}
+	
+	public T pop() throws Exception {
+		if (!isEmpty()) {
+			T value = data[p-1];
+			p -= 1;
+			return value;
+		} else {
+			throw new Exception("stack was empty");
+		}
+	}
+	
+	public T top() throws Exception {
+		if (!isEmpty()) {
+			return data[p - 1];
+		} else {
+			throw new Exception("stack was empty");
+		}
+	}
+	
+	public void print() {
+		for(int i = 0;i<p;i++) {
+			System.out.print(data[i]+" ");
+		}
+	}
+}

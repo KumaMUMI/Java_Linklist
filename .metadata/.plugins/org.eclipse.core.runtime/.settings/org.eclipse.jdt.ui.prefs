@@ -1,0 +1,12 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="dev.kim.class1.Linklist"><rhs name\="dev.kim.class1.Linklist"/></lhs><lhs name\="dev.chaow.tree.Tree"><rhs name\="dev.chaow.tree.Tree"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.RandomAccess"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.ArrayList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="dev.kim.bst.BinarySearchTree"><rhs name\="dev.kim.bst.BinarySearchTree"/></lhs><lhs name\="Stack"><rhs name\="Stack"/></lhs><lhs name\="dev.kim.LinkList"><rhs name\="dev.kim.LinkList"/></lhs><lhs name\="dev.kim.Queue"><rhs name\="dev.kim.Queue"/></lhs><lhs name\="dev.chaow.DoublyNode"><rhs name\="dev.chaow.DoublyNode"/></lhs><lhs name\="dev.kim.DoublyLinkList"><rhs name\="dev.kim.DoublyLinkList"/></lhs><lhs name\="dev.kim.DoublyNode"><rhs name\="dev.kim.DoublyNode"/></lhs><lhs name\="dev.kim.Node"><rhs name\="dev.kim.Node"/></lhs><lhs name\="oop1.Gem"><rhs name\="oop1.Diamond"/><rhs name\="oop1.Ruby"/><rhs name\="oop1.Emerald"/></lhs><lhs name\="oop2.Toy"><rhs name\="oop2.Toy"/></lhs><lhs name\="oop3.Car"><rhs name\="oop3.Honda"/></lhs><lhs name\="oop4.Music"><rhs name\="oop4.Music"/></lhs><lhs name\="oop4.Singer"><rhs name\="oop4.Singer"/></lhs></history>
+content_assist_number_of_computers=12
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true

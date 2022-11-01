@@ -1,0 +1,15 @@
+INDEX VERSION 1.131+C:\CODE\Java\Chaow\.metadata\.plugins\org.eclipse.jdt.core
+1329628270.index
+2377627767.index
+1720547496.index
+2492543514.index
+227146537.index
+2982648348.index
+1772165109.index
+523813791.index
+1865797976.index
+1881600096.index
+2361772636.index
+2883811114.index
+2995834453.index
+924651269.index
